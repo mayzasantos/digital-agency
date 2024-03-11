@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './aboutussection.component.css'
 })
 export class AboutussectionComponent {
-
+ 
 }
