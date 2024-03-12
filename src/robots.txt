@@ -4,4 +4,4 @@ Allow: /
 Allow: /about
 
 # Sitemaps
-Sitemaps: https://relolution-market.vercel.app/Sitemap.xml
+Sitemaps: https://relolution-market.vercel.app/sitemap.xml
