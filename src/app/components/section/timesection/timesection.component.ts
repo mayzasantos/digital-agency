@@ -1,11 +1,10 @@
 import { Component } from '@angular/core';
-import { CardtimesectionComponent } from './cardtimesection/cardtimesection.component';
 import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-timesection',
   standalone: true,
-  imports: [CommonModule,CardtimesectionComponent],
+  imports: [CommonModule],
   templateUrl: './timesection.component.html',
   styleUrl: './timesection.component.css'
 })
