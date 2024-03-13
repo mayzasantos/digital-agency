@@ -12,22 +12,22 @@ export class TimesectionComponent {
   peopleList = [
     {
       name: 'Diana Leite',
-      photo: 'assets/peopletime1.jpeg',
+      photo: 'assets/peopletime1.avif',
       job: 'CEO',
     },
     {
       name: 'Jordan Rocha',
-      photo: 'assets/peopletime4.jpeg',
+      photo: 'assets/peopletime4.avif',
       job: 'COO',
     },
     {
       name: 'Marcel Silva',
-      photo: 'assets/peopletime3.jpeg',
+      photo: 'assets/peopletime3.avif',
       job: 'CTO',
     },
     {
       name: 'Selena Web' ,
-      photo: 'assets/peopletime2.png',
+      photo: 'assets/peopletime2.avif',
       job: 'CDO',
     },
     
